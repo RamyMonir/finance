@@ -1,0 +1,5 @@
+# NEVER commit unencrypted data
+private/
+*.unencrypted.html
+.staticrypt.json
+.env
